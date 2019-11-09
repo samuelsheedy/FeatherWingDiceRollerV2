@@ -13,6 +13,11 @@
  * tft touchscreen
  * 
  * Created by Samuel Sheedy
+ *
+ * The libraries included in this file 
+ * contain licencing information from Adafruit
+ * about the use of their code, which includes the drawBMP()
+ * function at the end of this code
  */
 // tft and touchscreen libraries
 #include <SPI.h>
